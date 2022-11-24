@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="alliance&amp;leicester.svg"
+   viewBox="0 0 127.60592 126.64161"
+   height="126.64161"
+   width="127.60592"
+   version="1.1"
+   id="svg">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     inkscape:current-layer="svgg"
+     inkscape:window-maximized="1"
+     inkscape:window-y="441"
+     inkscape:window-x="1609"
+     inkscape:cy="132.78233"
+     inkscape:cx="-156.03733"
+     inkscape:zoom="4.9744962"
+     showgrid="false"
+     id="namedview7"
+     inkscape:window-height="2066"
+     inkscape:window-width="5160"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="translate(0,-2.4703908)"
+     id="svgg">
+    <path
+       fill-rule="evenodd"
+       fill="#ec833b"
+       stroke="none"
+       d="m 45.947,2.759 c -0.393,0.393 -0.393,35.469 0,35.862 0.359,0.359 34.801,0.395 35.47,0.037 C 81.843,38.43 81.854,37.992 81.854,20.69 81.854,3.388 81.843,2.95 81.417,2.721 80.748,2.363 46.306,2.4 45.947,2.759 M 0,66.139 v 18.202 h 17.836 c 16.311,0 17.862,-0.031 18.145,-0.373 0.51,-0.615 0.584,-35.161 0.076,-35.668 -0.327,-0.328 -2.122,-0.363 -18.21,-0.363 H 0 V 66.139 M 91.521,48.181 c -0.515,0.3 -0.626,35.533 -0.113,35.864 0.739,0.479 35.179,0.334 35.663,-0.149 0.683,-0.684 0.727,-34.968 0.045,-35.585 -0.495,-0.448 -34.834,-0.574 -35.595,-0.13 M 45.818,93.443 c -0.249,0.929 -0.161,34.76 0.092,35.232 0.228,0.427 0.663,0.437 17.737,0.437 H 81.15 l 0.352,-0.502 c 0.311,-0.444 0.352,-2.49 0.352,-17.587 0,-15.096 -0.041,-17.143 -0.352,-17.587 L 81.15,92.934 H 63.552 45.954 l -0.136,0.509"
+       id="path1" />
+    <rect
+       y="47.892178"
+       x="45.598717"
+       height="36.136433"
+       width="35.967331"
+       id="rect836"
+       style="opacity:1;fill:#1165ad;fill-opacity:1;stroke:none;stroke-width:1.01251" />
+  </g>
+</svg>
