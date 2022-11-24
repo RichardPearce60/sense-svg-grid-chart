@@ -1,0 +1,37 @@
+/* qv-object-sense-svg-grid-chart */
+
+:root {
+    --activeNotation: #1e90ff;
+    --inactiveNotation: #ff00ff; 
+    --notationFontSize: 2em;
+  }
+
+  .qv-object-sense-svg-grid-chart .notation{
+      overflow: hidden;
+      text-overflow: ellipsis; 
+      position: relative;  
+  }
+
+  .qv-object-sense-svg-grid-chart div.notation:hover {
+    overflow: visible;
+  }
+
+  .qv-object-sense-svg-grid-chart .notation p {
+      font-family: helvetica;
+      font-weight: bold;
+      font-size: var(--notationFontSize);
+      text-align: center;
+      padding: 10px;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+  }
+
+  .qv-object-sense-svg-grid-chart .notation .active{
+      color: var(--activeNotation);
+  }
+  .qv-object-sense-svg-grid-chart .notation .inactive{
+      color: var(--inactiveNotation);
+  }

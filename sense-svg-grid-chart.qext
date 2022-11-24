@@ -1,0 +1,15 @@
+{
+	"name": "KPI SVG Grid Chart",
+	"description": "Grid Chart that used SVG icons",
+	"type": "visualization",
+	"version": "1.1.1",
+	"icon": "extension",
+	"author": "Richard Pearce",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization, line-chart",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
